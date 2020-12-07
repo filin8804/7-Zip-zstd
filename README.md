@@ -267,6 +267,7 @@ For the benchmarks I am using Windows 7 64bit on my Laptop which has the followi
 - [7-Zip Zstandard Homepage](https://mcmilk.de/projects/7-Zip-zstd/)
 - [Request for inclusion](https://sourceforge.net/p/sevenzip/discussion/45797/thread/a7e4f3f3/) into the mainline 7-Zip:
   - result, will currently not included :(
+- [p7zip](https://github.com/jinfeihan57/p7zip) - 7-Zip fork for use on MacOS and linux
 
 ## Donate
 
@@ -299,6 +300,5 @@ You find this project useful, maybe you consider a donation ;-)
 [Lizard]:https://github.com/inikep/lizard/
 [ImDisk]:https://sourceforge.net/projects/imdisk-toolkit/
 [Fast LZMA2]:https://github.com/conor42/fast-lzma2
-
 [Codecs.7z]:https://github.com/mcmilk/7-Zip-zstd/releases
 [TotalCmd.7z]:https://github.com/mcmilk/7-Zip-zstd/releases
